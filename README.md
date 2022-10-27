@@ -2,7 +2,7 @@
 
 These problems have one thing in common: they use **linear data structures** in the form of arrays.
 
-Accepting the GitHub Assignment will create a repo with a series of challenges at `/src/main/java/tech.strategio` and its corresponding unit tests at `/src/test/java/tech.strategio`.
+Accepting the GitHub Assignment will create a repo with a series of challenges at `/src/main/java/tech.strategio` and its corresponding unit tests at `/src/test/java/tech.strategio`. Clone the repo generated for you by GitHub Classroom and use your Java IDE of choice.
 
 Each exercise contains a class with a method. Complete the methods in an IDE such that the unit tests pass. You should run your unit tests often, either through your Java IDE or through the command line (`gradle test`).
 
